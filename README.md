@@ -1,2 +1,2 @@
-# TheRisistor
+# Shoc
 OpenSource stagered Choc Keyboard
