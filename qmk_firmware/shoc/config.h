@@ -11,6 +11,12 @@
 #define PRODUCT         keyboard
 #define DESCRIPTION     Keyboard
 
+/* OLED Driver configurations */
+#ifdef OLED_DRIVER_ENABLE
+  #define OLED_DISPLAY_128X64
+  #define OLED_TIMEOUT 300000
+#endif
+
 /* key matrix size */
 #define MATRIX_ROWS 5
 #define MATRIX_COLS 14
