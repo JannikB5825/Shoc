@@ -1,5 +1,7 @@
 # Shoc
 
+# WORK IN PROGRESS NOT READY
+
 ## Overview
 
 [<img src="assets/Logo.png" width="40%"/>](Logo.png)
