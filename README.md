@@ -4,8 +4,6 @@
 
 ## Overview
 
-[<img src="assets/Logo.png" width="40%"/>](Logo.png)
-
 |           Front           |            Back             |
 | :-----------------------: | :-------------------------: |
 | ![front](/assets/top.svg) | ![back](/assets/bottom.svg) |
@@ -31,3 +29,5 @@ The Shoc comes with OLED 128x64 support.
 
 The Firmware is a custom QMK Firmware. Not yet in the official Repo, but Im working on it.
 The Default Firmware comes with a Bongo Cat WPM counter. Full credit for it goes to [u/Pop-X-](https://www.reddit.com/user/Pop-X-/).
+
+[<img src="assets/Logo.png" width="40%"/>](Logo.png)
