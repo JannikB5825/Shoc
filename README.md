@@ -26,3 +26,8 @@ The Shoc comes with OLED 128x64 support.
 | SSD1306 OLED(128x64)    | 1            |
 | Elite-C                 | 1            |
 | Button(B3U-1000P)       | 1            |
+
+## Firmware
+
+The Firmware is a custom QMK Firmware. Not yet in the official Repo, but Im working on it.
+The Default Firmware comes with a Bongo Cat WPM counter. Full credit for it goes to [u/Pop-X-](https://www.reddit.com/user/Pop-X-/).
