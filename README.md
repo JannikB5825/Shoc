@@ -31,3 +31,15 @@ The Firmware is a custom QMK Firmware. Not yet in the official Repo, but Im work
 The Default Firmware comes with a Bongo Cat WPM counter. Full credit for it goes to [u/Pop-X-](https://www.reddit.com/user/Pop-X-/).
 
 [<img src="assets/Logo.png" width="40%"/>](Logo.png)
+Shield: [![CC BY-SA 4.0][cc-by-sa-shield]][cc-by-sa]
+
+## License
+
+This work is licensed under a
+[Creative Commons Attribution-ShareAlike 4.0 International License][cc-by-sa].
+
+[![CC BY-SA 4.0][cc-by-sa-image]][cc-by-sa]
+
+[cc-by-sa]: http://creativecommons.org/licenses/by-sa/4.0/
+[cc-by-sa-image]: https://licensebuttons.net/l/by-sa/4.0/88x31.png
+[cc-by-sa-shield]: https://img.shields.io/badge/License-CC%20BY--SA%204.0-lightgrey.svg
