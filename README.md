@@ -22,7 +22,7 @@ The Shoc comes with OLED 128x64 support.
 | MBK Keycaps 2u          | 4            |
 | Diodes(1N4148W/SOD-123) | 64           |
 | SSD1306 OLED(128x64)    | 1            |
-| Elite-C                 | 1            |
+| Pro Micro               | 1            |
 | Button(B3U-1000P)       | 1            |
 
 ## Firmware
@@ -31,7 +31,6 @@ The Firmware is a custom QMK Firmware. Not yet in the official Repo, but Im work
 The Default Firmware comes with a Bongo Cat WPM counter. Full credit for it goes to [u/Pop-X-](https://www.reddit.com/user/Pop-X-/).
 
 [<img src="assets/Logo.png" width="40%"/>](Logo.png)
-Shield: [![CC BY-SA 4.0][cc-by-sa-shield]][cc-by-sa]
 
 ## License
 
