@@ -32,6 +32,11 @@ The Default Firmware comes with a Bongo Cat WPM counter. Full credit for it goes
 
 [<img src="assets/Logo.png" width="40%"/>](Logo.png)
 
+
+## PCB
+
+The PCB was created in EasyEDA and because EasyEDA is a bit iffy in exporting in standard Files, the PCB and schematic are only editable in EasyEDA.
+
 ## License
 
 This work is licensed under a
