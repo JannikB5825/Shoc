@@ -1,6 +1,6 @@
 # Shoc
 
-# WORK IN PROGRESS NOT READY
+![thumbnail](/assets/thumbnail.jpg)
 
 ## Overview
 
@@ -33,7 +33,7 @@ The Default Firmware comes with a Bongo Cat WPM counter. Full credit for it goes
 [<img src="assets/Logo.png" width="40%"/>](Logo.png)
 
 ## License
- 
+
 This work is licensed under a
 [Creative Commons Attribution-ShareAlike 4.0 International License][cc-by-sa].
 
