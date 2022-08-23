@@ -12,6 +12,10 @@ Make example for this keyboard (after setting up your build environment):
 
     make shoc:default
 
+Flashing example for this keyboard:
+
+    make shoc:default:flash
+
 ## Bootloader
 
 Briefly press the button along the outer edge of the PCB next to the microcontroller.
