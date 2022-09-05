@@ -27,7 +27,7 @@ The Shoc comes with OLED 128x64 support.
 
 ## Firmware
 
-The Firmware is a custom QMK Firmware. Not yet in the official [Repo](https://github.com/qmk/qmk_firmware/tree/master/keyboards/shoc), but Im working on it.
+The Firmware is a custom [QMK Firmware](https://github.com/qmk/qmk_firmware/tree/master/keyboards/shoc).
 The Bongo Firmware comes with a Bongo Cat WPM counter. Full credit for it goes to [u/Pop-X-](https://www.reddit.com/user/Pop-X-/).
 
 [<img src="assets/Logo.png" width="40%"/>](Logo.png)
